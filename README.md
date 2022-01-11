@@ -1,4 +1,4 @@
-# Descomplica Convid
+# Descomplica Covid
 
 ## ⚠️ Requirements
 
